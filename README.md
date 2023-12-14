@@ -1,4 +1,4 @@
-Calculadora de partidas Rankeadas
+Calculadora de partidas Rankeadas--
 
 O Que deve ser utilizado
 
