@@ -1,4 +1,5 @@
 Calculadora de partidas Rankeadas
+
 O Que deve ser utilizado
 
 - Variáveis
